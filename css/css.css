@@ -1,0 +1,58 @@
+body{
+	background: black;
+}
+svg{
+	margin-top: 50px;
+	margin-left: 60px;
+}
+.node {
+	font: 10px sans-serif;
+}
+.stream_x_axis path,
+.stream_x_axis line{
+	fill:none;
+	stroke:white;
+}
+.stream_x_axis text{
+	fill:white;
+	font-size: 11px;
+}
+.stream_y_axis path,
+.stream_y_axis line{
+	fill:none;
+	stroke:white;
+
+}
+.stream_y_axis text{
+	fill:white;
+	font-size: 11px;
+}
+.stream_y_axis_down path,
+.stream_y_axis_down line{
+	fill:none;
+	stroke:#3399FF;
+
+}
+.stream_y_axis_down text{
+	fill:white;
+	font-size: 11px;
+}
+.stream_y_axis_up path,
+.stream_y_axis_up line{
+	fill:none;
+	stroke:#3399FF;
+
+}
+.stream_y_axis_up text{
+	fill:white;
+	font-size: 11px;
+}
+.down_axis path,
+.down_axis line{
+	fill:none;
+	stroke:white;
+}
+.down_axis text{
+	fill:white;
+	font-size: 11px;
+}
